@@ -192,7 +192,7 @@ We appreciate your time in reviewing our project. If you have any questions or r
 ## Additional Resources
 
 - [YOLO5 Model for Real-Time Detection](link-to-yolo5)
-- [Path Planning Using BFS](link-to-bfs-path-planning)
+- [Path Planning Using BFS](https://github.com/Quantum-Uno/2026-ACC-Self-Driving-Car-Competition1/tree/main/path_planning)
 - [Pure Pursuit Controller Documentation](https://github.com/Quantum-Uno/2026-ACC-Self-Driving-Car-Competition1/tree/main/purepursuit)
 
 Thank you for your evaluation!
