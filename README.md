@@ -4,7 +4,7 @@
 
 ## Welcome to Our Esteemed Panel
 
-We are excited to present our autonomous navigation system developed for the **ACC 2026 Self-Driving Competition**. This document provides an overview of our project, detailing the architecture, control strategies, and setup instructions.
+We are excited to present our autonomous navigation system developed for the **ACC 2026 Self-Driving Car Competition**. This document provides an overview of our project, detailing the architecture, control strategies, and setup instructions.
 
 ---
 
